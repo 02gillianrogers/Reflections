@@ -11,3 +11,7 @@ that way, the saves make sense. You would also be able to undo the changes, if s
 14 Reflection
   Describe the differences between forks, clones, and branches. When would you use one instead of another?
 The differences between forks, clones, and branches are that forks give credit to the original creator, clones create an entirely new group of code while the other one is still present, and branches can be merged back with the master branch.
+
+22 Reflection
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit is that you can work on it offline.
