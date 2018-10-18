@@ -15,3 +15,7 @@ The differences between forks, clones, and branches are that forks give credit t
 22 Reflection
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit is that you can work on it offline.
+
+25 Reflection
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+To collaborate without using Git or GitHub would be more difficult. You would have to send files across the internet.
