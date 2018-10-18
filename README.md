@@ -19,3 +19,7 @@ The benefit is that you can work on it offline.
 25 Reflection
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 To collaborate without using Git or GitHub would be more difficult. You would have to send files across the internet.
+
+31 Reflection
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If you change a seperate branch rather than directly in master, you have 
