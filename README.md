@@ -22,4 +22,4 @@ To collaborate without using Git or GitHub would be more difficult. You would ha
 
 31 Reflection
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
-If you change a seperate branch rather than directly in master, you have 
+If you change a separate branch rather than directly in master, you have forgivness if something goes horribly wrong. A downside is you have to manually combine the other branch instead of simply saving it.
